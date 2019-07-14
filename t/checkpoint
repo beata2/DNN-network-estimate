@@ -1,0 +1,5 @@
+model_checkpoint_path: "Unit2-model-1500"
+all_model_checkpoint_paths: "Unit2-model-0"
+all_model_checkpoint_paths: "Unit2-model-500"
+all_model_checkpoint_paths: "Unit2-model-1000"
+all_model_checkpoint_paths: "Unit2-model-1500"
